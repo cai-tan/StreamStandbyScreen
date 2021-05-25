@@ -128,10 +128,13 @@ def script_update(settings):
     obs.timer_add(blink, cycleratemin)
 
 def dictionarylookup(istr):
-    start = 0
-    keywords = [fname for _, fname, _, _ in Formatter().parse(istr) if fname]
-    for keyword in keywords:
-        arg = random.choice(strgroup.get(keyword,["ERROR"]))
-        istr = istr.replace("{"+keyword+"}",arg)
-        #print("Replaced keyword {0} with {1}".format(keyword,arg))
+    while "{" in istr:
+        keywords = [fname for _, fname, _, _ in Formatter().parse(istr) if fname]
+        if len(keywords) == 0:
+            return istr
+        for keyword in keywords:
+            arg = random.choice(strgroup.get(keyword,["ERROR"]))
+            istr = istr.replace("{"+keyword+"}",arg)
+            #print("Replaced keyword {0} with {1}".format(keyword,arg))
+            
     return istr

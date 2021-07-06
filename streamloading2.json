@@ -254,7 +254,8 @@
 		"Pssst, hey. Try using {FUNNYCOMMAND} in chat. Go on. Do it.",
 		"You should ask me how I feel about certain game mechanics or other design decisions!",
 		"If you're watching CAI-TAn on mobile, and a channel reward appears to be out of stock, you may need to restart the app.",
-		"\"Legacy Speech Protocol\" is basically a lore-friendly way of referring to CAI-TAn's impression of Aigis from Persona 3."
+		"\"Legacy Speech Protocol\" is basically a lore-friendly way of referring to CAI-TAn's impression of Aigis from Persona 3.",
+		"If you nya in chat you might just get one back."
 	],
 	"GAMETIP":
 	[
@@ -274,7 +275,8 @@
 		"In Minecraft, the little demon horns on the healthbar means that I'm in Hardcore mode. If I die once, the world is almost entirely lost.",
 		"In Minecraft, there are many ways to get the exclusive Mending enchantment, such as fishing, looting, and villager trading.",
 		"Most of Titanfall 2's weapons are hitscan, with the exception of weapons like the Kraber, Wingman Elite, Double Take, etc.",
-		"The best movement mode in H3VR is Armswinger."
+		"The best movement mode in H3VR is Armswinger.",
+		"Talk to Abbot at the wall if you want a history lesson."
 	],
 	"LORE":
 	[
@@ -469,7 +471,8 @@
 		"Now, notice that none of that's true. CAI-TAn got inauthentic at you? What else is new?",
 		"I'm the mightiest plan.",
 		"You're no match for my... unlimited RAM.",
-		"pupkimng"
+		"pupkimng",
+		"protgal"
 	],
 	"USELESS":
 	[

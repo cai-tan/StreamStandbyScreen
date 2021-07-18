@@ -346,7 +346,9 @@
 		"Breaking some stone...",
 		"Dressing in all my fancy clothes...",
 		"Shooting your back...",
-		"Turning back and attacking..."
+		"Turning back and attacking...",
+		"Doing a little trolling...",
+		"Drinking cola..."
 	],
 	"Tips":
 	[
@@ -677,7 +679,6 @@
 	"VTUBER":
 	[
 		"Airin-senpai",
-		"Yuma-senpai",
 		"EXE",
 		"Chiiseko",
 		"Selene",
@@ -686,7 +687,14 @@
 		"Elica",
 		"Tora",
 		"Sugarmach1ne",
-		"O.S.A.K.A."
+		"Maple Renarde",
+		"Luna",
+		"Lua Lucky",
+		"PisXes",
+		"Lily Lyco",
+		"Virtue Catalina",
+		"Senkair",
+		"Flare"
 	],
 	"HOLOLIVE":
 	[
@@ -712,7 +720,12 @@
 		"Dong Dong Never Die",
 		"P4U2",
 		"DBFC",
-		"Hololive Wrestling"
+		"Hololive Wrestling",
+		"Melty Blood",
+		"PPGD: Battle in Megaville",
+		"Sailor Moon S",
+		"IaMP",
+		"AoCF"
 	],
 	"AWFULTHING":
 	[
@@ -727,7 +740,11 @@
 		"Fragrance Man",
 		"DJ Hallyboo",
 		"Mario Party DS Anti Piracy",
-		"Michaelsoft Binbows"
+		"Michaelsoft Binbows",
+		"Jeanue",
+		"the Titanfall hacker(s)",
+		"Phase Rewind",
+		"Bad Rats"
 	],
 	"FUNNYCOMMAND":
 	[

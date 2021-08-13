@@ -357,7 +357,9 @@
 		"Pissing off {HOLOLIVE}'s fanbase...",
 		"Putting {VTUBER} in my game...",
 		"Ranting to {VTUBER} about video games...",
-		"Sponsoring {VTUBER}..."
+		"Sponsoring {VTUBER}...",
+		"Converting to .444 Marlin...",
+		"Restocking .444 Marlin conversion kits..."
 	],
 	"Tips":
 	[
@@ -375,7 +377,7 @@
 		"It's way too much trouble to go between two streamloading.json files, so generally you shouldn't expect ARG stuff down here.",
 		"You can now view the tip screen's entire text file and its history! Try typing !standbyjson in chat!",
 		"Use !glitcharenas or !gunsmith to get a description about the gamedev projects I'm working on.",
-		"Use !discord to get a link to the Toaster Fricker Den, where I announce streams and events.",
+		"Use !discord to get a link to the Toaster Fricker Den, where I announce streams and events, as well as share what I'm working on off-stream.",
 		"I recently added the ability to separate tip categories, so now I can have useful tips show up here more often!",
 		"Trans rights are human rights.",
 		"If you ever tell me that you understood my super obscure references, is2g I'll orgasm on stream I'll be so happy.",
@@ -384,7 +386,9 @@
 		"If you're watching CAI-TAn on mobile, and a channel reward appears to be out of stock, you may need to restart the app.",
 		"\"Legacy Speech Protocol\" is basically a lore-friendly way of referring to CAI-TAn's impression of Aigis from Persona 3.",
 		"If you nya in chat you might just get one back.",
-		"The current leader in regenyarations is LorzIX at Gen2."
+		"The current leader in regenyarations is LorzIX at Gen2.",
+		"Don't forget to follow the channel to keep up on my projects and earn points for Regenyaration.",
+		"Showing up to the stream multiple times in a row gives you a Channel Point bonus that increases each time. Visit me often!"
 	],
 	"GAMETIP":
 	[
@@ -448,7 +452,9 @@
 		"Don't use warming lube. ~~goat",
 		"Don't call it an AWP ~~tsunmene",
 		"If you think about it , Psychonoauts is the doom eterna;l of sonmcin the hedgehog ~~goat",
-		"of the iceberg. ~~Safariminer"
+		"of the iceberg. ~~Safariminer",
+		"LorzIX: and I'm not into feet sure yea / don't quote me on that I swear to god",
+		"\"nā ne forġife iċ þē\" is old english for \"Never Gonna Give You Up\". ~~Safariminer"
 	],
 	"MEMES":
 	[
@@ -476,7 +482,12 @@
 		"Got Minecraft here. It's a game where you place blocks and fight a dragon. Oscar Mike, ladies.",
 		"Read the manga.",
 		"Iron Chestplate here, level 1. Need one if you don't have one.",
-		"Soap."
+		"Soap.",
+		"STOP POSTING ABOUT AMONG US!",
+		"My friends on TikTok send me memes, on Discord it's all fuckin' memes...",
+		"I was in a server, right? And ALL of the channels are just Among Us.",
+		"when the underwear is sus HAHAHAHAHAHHAHAHAHA",
+		"Cartoon Cowboy Boy NAmed Beebbop Di Beppo. His Signater Cactch Phrase: \"Hah... Guess I Shotcha\""
 	],
 	"QUOTES":
 	[
@@ -740,7 +751,6 @@
 	],
 	"AWFULTHING":
 	[
-		"Sonichu",
 		"Cubic Castles",
 		"Sonic '06",
 		"Twilight",

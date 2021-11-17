@@ -417,6 +417,7 @@
 		"Use !rapport to learn about the audience XP/levelling system, the RAPPORT Program.",
 		"To earn XP for your V-47 Chatline, all you need to do is chat at least once every 16 minutes.",
 		"Good Performance XP is earned by chatting or using redeems at least once every 37 minutes.",
+		"Redeeming a timed redeem (I.E. Legacy Speech Protocol) while that timer is already running will cancel the timer.",
 		"If you can't stick around to interact, the !lurk command will earn XP passively. Just remember to keep the tab open and don't mute the player!"
 	],
 	"GAMETIP":
@@ -529,6 +530,7 @@
 		"That shit look like the battle pass.",
 		"She kinda look like a rocket launcher.",
 		"They need to put that shit in the item shop.",
+		"monke",
 		"Google, show me this guy's balls."
 	],
 	"QUOTES":

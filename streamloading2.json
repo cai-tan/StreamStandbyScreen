@@ -419,7 +419,7 @@
 		"Play Titanfall 2.",
 		"It's way too much trouble to go between two streamloading.json files, so generally you shouldn't expect ARG stuff down here.",
 		"You can now view the tip screen's entire text file and its history! Try typing !standbyjson in chat!",
-		"Use !m4game or !gunsmith to get a description about the gamedev projects I'm working on.",
+		"Use !m4game or !toastercrash to get a description about the gamedev projects I'm working on.",
 		"Use !discord to get a link to the Toaster Fricker Den, where I announce streams and events, as well as share what I'm working on off-stream.",
 		"I recently added the ability to separate tip categories, so now I can have useful tips show up here more often!",
 		"Trans rights are human rights.",
@@ -433,8 +433,8 @@
 		"Don't forget to follow the channel to keep up on my projects and earn points for Regenyaration.",
 		"Showing up to the stream multiple times in a row gives you a Channel Point bonus that increases each time. Visit me often!",
 		"Use !rapport to learn about the audience XP/levelling system, the RAPPORT Program.",
-		"To earn XP for your V-47 Chatline, all you need to do is chat at least once every 16 minutes.",
-		"Good Performance XP is earned by chatting or using redeems at least once every 37 minutes.",
+		"To earn XP for your V-47 Chatline, all you need to do is chat at least once every 20 minutes.",
+		"Good Performance XP is earned by chatting or using redeems at least once every 40 minutes.",
 		"Redeeming a timed redeem (I.E. Legacy Speech Protocol) while that timer is already running will cancel the timer.",
 		"If you can't stick around to interact, the !lurk command will earn XP passively.",
 		"The current highest Post Morgie Combo is 217 Morgies.",
@@ -841,7 +841,7 @@
 		"Her cost of admission: 1 soul. My cost of admission: 1 headpat. I think I offer the better value by a landslide.",
 		"\"Senpai\" means \"upperclassman\". Yandere-chan is in the same class as Senpai. He is not Yandere-chan's senpai. Yandev is a weeb.",
 		"todd howard says: no fallout today silly child go outsie to play",
-		"fred durst says: no fallout today silly boy go outsie to play",
+		"fred durst says: no computer today silly boy go outsie to play",
 		"Op! Op, op, op! Oppa homeless style!",
 		"A good way to earn money is to perform the famous dance, \"Oppa Homeless Style\".",
 		"Liquid-darken. Wall-abandon. Boy-subordinate.",
@@ -900,6 +900,10 @@
 		"Sailor Moon S",
 		"IaMP",
 		"AoCF"
+	],
+	"CODEKIDSPIZZA":
+	[
+		"I found it!"
 	],
 	"AWFULTHING":
 	[

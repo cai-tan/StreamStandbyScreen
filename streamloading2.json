@@ -438,7 +438,6 @@
 		"Play Deep Rock Galactic.",
 		"It's way too much trouble to go between two streamloading.json files, so generally you shouldn't expect ARG stuff down here.",
 		"You can now view the tip screen's entire text file and its history! Try typing !standbyjson in chat!",
-		"I recently added the ability to separate tip categories, so now I can have useful tips show up here more often!",
 		"Use !jackschmidt or !kt1632 to get a description about the gamedev projects I'm working on.",
 		"Use !discord to get a link to the Toaster Fricker Den, where I announce streams and share previews of what I'm working on off-stream.",
 		"Trans rights are human rights.",
@@ -462,6 +461,7 @@
 		"Every time someone new joins an ongoing Morgie Combo, the combo gets an additional Morgie added as a Synergy Bonus.",
 		"No, I will not \"ara ara\" for you. There is no \"ara ara\" redeem. There will never be one.", 
 		"You can follow CAI-TAn's official Mastodon profile at @cai_tan@vt.social.",
+		"If something I'm working on looks interesting, please clip it! Having more clips of my actual gamedev projects makes it easier to promote to others!",
 		"despite being a robot, KT can still be hungry, remember to feed her by throwing cheese slices at her! ~~CodeKid123",
 		"Use the !streak command to find out how many consecutive CAI-TAn Channel streams you've participated in!"
 	],

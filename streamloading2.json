@@ -206,6 +206,7 @@
 		"Setting and executing battle routine...",
 		"Signing a magical girl contract...",
 		"Comparing myself to {AWFULTHING}...",
+		"Comparing my games to {AWFULTHING}...",
 		"Doing the thing...",
 		"Eating snakes...",
 		"Doing stuff...",
@@ -423,6 +424,9 @@
 		"Looking like the rocket launcher...",
 		"Puttin that shit in the item shop...",
 		"Googling this guy's balls...",
+		"Getting paid in cash with Atlas Earth...",
+		"Getting paid rent in cash with {AWFULTHING}...",
+		"Making a video essay about {AWFULTHING}...",
 		"Moving freight..."
 	],
 	"Tips":
@@ -496,7 +500,10 @@
 		"Do not dip your genitals in Liquid Morkite.",
 		"Do not dip your Gunk Seeds in Liquid Morkite.",
 		"Jack Smith from Murderbot Mascots is canonically forklift certified.",
-		"Talk to Abbot at the wall if you want a history lesson."
+		"Talk to Abbot at the wall if you want a history lesson.",
+		"The Mastiff shotgun's damage depends on the tides, the moon cycles, star alignments, your zodiac sign, what you had for breakfast, whether or not a popular youtuber has said something racist today or not, and so on.",
+		"The Mastiff shotgun's damage depends on the tides, the moon cycles, star alignments, your zodiac sign, what you had for breakfast, how recently a popular youtuber has abused their team / coworkers, and so on.",
+		"I could open this gate if I had Monty's claws."
 	],
 	"LORE":
 	[
@@ -837,8 +844,9 @@
 		"Maybe you should try getting a job.",
 		"Maybe you should join Majestic 12 in a body bag.",
 		"I have contamination and mutants in my brain.",
-		"Just so you know, your \"success\" was entirely coincidential, and also temporary. It will never work again. Go fuck yourself, loser.",
-		"Ehhh, step right up, come on you know, kime to do... mehhrio time... come inside to Mehhrio Park, doooo the mario time..."
+		"I just bought more land in the Metaverse!",
+		"Ehhh, step right up, come on you know, kime to do... mehhrio time... come inside to Mehhrio Park, doooo the mario time...",
+		"Cargo, move freight. Miners, don't die."
 	],
 	"USELESS":
 	[
@@ -929,7 +937,8 @@
 		"Oh, it gets worse.",
 		"Amatiramisu's Genesis is a genetic mutation that causes you to become Ammy.",
 		"Protein shake!",
-		"Cargo, move freight. Miners, don't die."
+		"You can just buy more land in the Metaverse.",
+		"You can get paid rent in cash with {AWFULTHING}, just click the link below!"
 	],
 	"VTUBER":
 	[
@@ -995,27 +1004,27 @@
 		"Aigis's original EN VA",
 		"Big Rigs Over the Road Racing",
 		"Fragrance Man",
-		"DJ Hallyboo",
-		"Mario Party DS Anti Piracy",
 		"Michaelsoft Binbows",
 		"Jeanue",
 		"the Titanfall hacker(s)",
 		"Phase Rewind",
-		"\"a bandwagon for clout and simpbucks\"",
-		"\"an uwu cutegirl filterfest\"",
-		"\"a rather unkind reality check\"",
 		"Normal Pills",
 		"Oppa Homeless Style",
 		"the \"Down with Cis\" bus",
 		"Ebony Dark'ness Dementia Raven Way",
 		"Super Hell",
+		"Dean's response to \"I love you\"",
 		"the monkey NFT",
 		"Elon Musk",
 		"\"wokism\"",
 		"luppyluppy",
 		"\"female presenting nipples\"",
 		"FakeFactory",
-		"Bad Rats"
+		"Bad Rats",
+		"Atlas Earth",
+		"crypto Luigi",
+		"30-50 feral hogs",
+		"Bruen MX9"
 	],
 	"FUNNYCOMMAND":
 	[

@@ -427,7 +427,12 @@
 		"Getting paid in cash with Atlas Earth...",
 		"Getting paid rent in cash with {AWFULTHING}...",
 		"Making a video essay about {AWFULTHING}...",
-		"Moving freight..."
+		"Moving freight...",
+		"Screaming about fucking pronouns...",
+		"Ruining your immersion...",
+		"Current daying you...",
+		"Discombobulating...",
+		"Creating a successful Tumblr gimmick blog..."
 	],
 	"Tips":
 	[
@@ -469,7 +474,8 @@
 		"You can follow CAI-TAn's official Mastodon profile at @cai_tan@vt.social.",
 		"If something I'm working on looks interesting, please clip it! Having more clips of my actual gamedev projects makes it easier to promote to others!",
 		"despite being a robot, KT can still be hungry, remember to feed her by throwing cheese slices at her! ~~CodeKid123",
-		"Use the !streak command to find out how many consecutive CAI-TAn Channel streams you've participated in!"
+		"Use the !streak command to find out how many consecutive CAI-TAn Channel streams you've participated in!",
+		"Use of the phrase \"tourist\" is a dogwhistle for behaviors that violate Rule #2 of the CAI-TAn community and is therefore a bannable offense."
 	],
 	"GAMETIP":
 	[
@@ -797,7 +803,9 @@
 		"Hey, you hungry home invader, stop raiding our refridgerator.",
 		"Quit stealin' our food and go buy a frickin' sandwich, you bony bastard.",
 		"*slap* How about now?!",
-		"The time has come, and so have I."
+		"The time has come, and so have I.",
+		"Sorry, you want to refer to someone without using their proper name? Yeah, well, guess what? FUCKING PRONOUNS!",
+		"Discombobulate."
 	],
 	"OBSCURE":
 	[
@@ -1026,7 +1034,8 @@
 		"Atlas Earth",
 		"crypto Luigi",
 		"30-50 feral hogs",
-		"Bruen MX9"
+		"Bruen MX9",
+		"Current Day Californian Shit (all we fucking know)"
 	],
 	"FUNNYCOMMAND":
 	[

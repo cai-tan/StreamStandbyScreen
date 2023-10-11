@@ -432,7 +432,9 @@
 		"Ruining your immersion...",
 		"Current daying you...",
 		"Discombobulating...",
-		"Creating a successful Tumblr gimmick blog..."
+		"Creating a successful Tumblr gimmick blog...",
+		"Finally updating the [VTUBER] keyword list...",
+		"Adding {VTUBER} to the [VTUBER] keyword list..."
 	],
 	"Tips":
 	[
@@ -953,21 +955,29 @@
 	"VTUBER":
 	[
 		"Airin-senpai",
-		"EXE",
-		"Chiiseko",
-		"Selene",
-		"LilyDusk",
-		"AuRea",
-		"Elica",
-		"Tora",
-		"Sugarmach1ne",
-		"Celestia Renarde",
-		"Luna",
+		"ShinyOlivia",
+		"SisterMurcie",
+		"ShuMercury",
+		"Exodrifter",
+		"Neona Wolf Spider",
+		"Cyber Mermaid Komette",
+		"Emma",
+		"Robyn Renarde",
+		"Akinyan",
+		"Luna Foxgirl",
+		"Lina Asahi",
+		"Kiri",
+		"Nethyr",
 		"Lua Lucky",
-		"PisXes",
+		"Diesel",
 		"Virtue Catalina",
-		"Senkair",
-		"Flare"
+		"NovaLiminal",
+		"Zemixy",
+		"Glitched Rune",
+		"Minra",
+		"Mystic Moshi",
+		"Crease",
+		"Eroax"
 	],
 	"HOLOLIVE":
 	[

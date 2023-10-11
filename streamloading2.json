@@ -433,8 +433,15 @@
 		"Current daying you...",
 		"Discombobulating...",
 		"Creating a successful Tumblr gimmick blog...",
+		"Turning Earend into a VTuber...",
+		"Deciding whether or not Tim Yuen counts as a VTuber...",
+		"Going back to Ape Legs...",
+		"Spending seventy dollars on an Early Access game...",
+		"Having my girldinner...",
 		"Finally updating the [VTUBER] keyword list...",
-		"Adding {VTUBER} to the [VTUBER] keyword list..."
+		"Adding {VTUBER} to the [VTUBER] keyword list...",
+		"Shouting out {VTUBER}...",
+		"Dragging {VTUBER} kicking and screaming into Deep Rock Galactic..."
 	],
 	"Tips":
 	[
@@ -477,7 +484,8 @@
 		"If something I'm working on looks interesting, please clip it! Having more clips of my actual gamedev projects makes it easier to promote to others!",
 		"despite being a robot, KT can still be hungry, remember to feed her by throwing cheese slices at her! ~~CodeKid123",
 		"Use the !streak command to find out how many consecutive CAI-TAn Channel streams you've participated in!",
-		"Use of the phrase \"tourist\" is a dogwhistle for behaviors that violate Rule #2 of the CAI-TAn community and is therefore a bannable offense."
+		"Use of the phrase \"tourist\" is a dogwhistle for behaviors that violate Rule #2 of the CAI-TAn community and is therefore a bannable offense.",
+		"Go check out {VTUBER}, they are pretty cool I think!"
 	],
 	"GAMETIP":
 	[
@@ -977,7 +985,9 @@
 		"Minra",
 		"Mystic Moshi",
 		"Crease",
-		"Eroax"
+		"Eroax",
+		"Enlynn",
+		"Lorz IX"
 	],
 	"IDOL":
 	[
@@ -1012,7 +1022,9 @@
 		"PPGD: Battle in Megaville",
 		"Sailor Moon S",
 		"IaMP",
-		"AoCF"
+		"AoCF",
+		"DNF Duel",
+		"Among Us Arena"
 	],
 	"CODEKIDSPIZZA":
 	[
@@ -1066,6 +1078,8 @@
 		"!gaming",
 		"!twitchapiwtf",
 		"!unitythanks",
-		"!unitywtf"
+		"!unitywtf",
+		"!johnrwtf",
+		"!minkao"
 	]
 }

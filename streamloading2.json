@@ -166,12 +166,12 @@
 		"Writing songs I'll never perform...",
 		"Staring at {VTUBER}'s shoulders...",
 		"Gaming...",
-		"Watching old VODs of {HOLOLIVE}...",
+		"Watching old VODs of {IDOL}...",
 		"Approaching with 66H...",
 		"Mashing DP on wakeup...",
 		"Chain Shifting...",
 		"Stealing Vorpal...",
-		"Challenging {HOLOLIVE} to a FT5 in {FIGHTAN}...",
+		"Challenging {IDOL} to a FT5 in {FIGHTAN}...",
 		"Teaching {FIGHTAN} to {VTUBER}...",
 		"Disconnecting router...",
 		"Clearing cache...",
@@ -181,7 +181,7 @@
 		"Terminating process HORNY.EXE...",
 		"Purring...",
 		"Pissing off Coco with terrible Japanese...",
-		"Challenging {HOLOLIVE} to a rap battle...",
+		"Challenging {IDOL} to a rap battle...",
 		"Asking for bobs and vagene...",
 		"Uninstalling RLCraft...",
 		"Singing off-key...",
@@ -374,10 +374,10 @@
 		"Drinking cola...",
 		"Asking {VTUBER} for a collab...",
 		"Making memes about {VTUBER}...",
-		"Making memes about {HOLOLIVE}...",
-		"Removing memes about {HOLOLIVE}...",
+		"Making memes about {IDOL}...",
+		"Removing memes about {IDOL}...",
 		"Bullying {VTUBER}...",
-		"Pissing off {HOLOLIVE}'s fanbase...",
+		"Pissing off {IDOL}'s fanbase...",
 		"Putting {VTUBER} in my game...",
 		"Ranting to {VTUBER} about video games...",
 		"Sponsoring {VTUBER}...",
@@ -901,7 +901,7 @@
 		"If you can claim Hoshikawa Lily being trans is a mistranslation, we can claim Astolfo being cis is a mistranslation.",
 		"Krupp was a German weapons engineer, I think.",
 		"Yes, I am real woman, do you want to go skateboards?",
-		"Atlus, please let {HOLOLIVE} play Persona 3.",
+		"Atlus, please let {IDOL} play Persona 3.",
 		"It's spelled \"Minceraft\".",
 		"My pantsu color is gunmetal.",
 		"punctuation is too mainstream to use in roleplay",
@@ -979,12 +979,14 @@
 		"Crease",
 		"Eroax"
 	],
-	"HOLOLIVE":
+	"IDOL":
 	[
 		"Korone",
 		"Okayu",
 		"Calliope",
 		"Amelia",
+		"Ina'nis",
+		"Gura",
 		"Fubuki",
 		"Marine",
 		"Roboco",
@@ -993,7 +995,9 @@
 		"Risu",
 		"Haachama",
 		"Coco",
-		"Pekora"
+		"Pekora",
+		"Zentreya",
+		"Ironmouse"
 	],
 	"FIGHTAN":
 	[

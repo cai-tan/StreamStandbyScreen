@@ -152,7 +152,7 @@
 		"Being seiso...",
 		"Changing Minecraft to Minceraft...",
 		"Blaming the controller...",
-		"Banning Johns...",
+		"Banning {BANNABLE}...",
 		"Misunderstanding joke...",
 		"Calling waifus trash...",
 		"Rating your waifus...",
@@ -448,7 +448,9 @@
 		"Nerfing this...",
 		"Farting...",
 		"Turning TF2's Sniper into a femme fatale...",
-		"Wishing I looked like Final Combat's Sniper..."
+		"Wishing I looked like Final Combat's Sniper...",
+		"Unbanning {BANNABLE}...",
+		"Selling my house to Aquaman..."
 	],
 	"Tips":
 	[
@@ -614,7 +616,8 @@
 		"KT's coding is messed up so whenever she attempts to say \"hat\" she says \"helmet\" instead, please forgive her for this error.",
 		"You can pet the bogling. ~~fdsoftware",
 		"opossums act like little vacuum cleaners when it comes to ticks ~~fdsoftware",
-		"my body is a machine that turns STEAM PURCHASES into UNPLAYED GAMES"
+		"my body is a machine that turns STEAM PURCHASES into UNPLAYED GAMES",
+		"type \"sned up\" in chat to deal an instant instance of 1d4 confusion damage to anyone else in chat!"
 	],
 	"MEMES":
 	[
@@ -883,7 +886,11 @@
 		"You got the 2077 glitch mobile, yo wheels about to clip through the asphalt. You drivin a damn Decepticon. Yo shit look like it runs on Bitcoin. You gotta solve the quadratic formula to park that bitch.",
 		"Look at you. Purple.",
 		"Im a sponsored skateboarder ~~loser",
-		"Go fucking skateboard, then."
+		"Go fucking skateboard, then.",
+		"No bhopping! Server rules!",
+		"Winston needs your ankles for science.",
+		"They put bugs in him.",
+		"Latanas can't cook."
 	],
 	"USELESS":
 	[
@@ -972,7 +979,8 @@
 		"Oh, it gets worse.",
 		"Amatiramisu's Genesis is a genetic mutation that causes you to become Ammy.",
 		"You can just buy more land in the Metaverse.",
-		"You can get paid rent in cash with {AWFULTHING}, just click the link below!"
+		"You can get paid rent in cash with {AWFULTHING}, just click the link below!",
+		"I'll talk to you later kitten, I have to ban someone for {BANNABLE}."
 	],
 	"VTUBER":
 	[
@@ -1106,5 +1114,14 @@
 		"",
 		"",
 		"*smack* *wetfart.wav*"
+	],
+	"BANNABLE":
+	[
+		"bhopping",
+		"Johns",
+		"playing Meta Knight",
+		"playing Scout",
+		"posting memes in #general",
+		"piracy"
 	]
 }

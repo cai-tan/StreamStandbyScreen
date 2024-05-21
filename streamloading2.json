@@ -455,7 +455,11 @@
 		"Sending myself emails...",
 		"Sealing away the King of Hyrule inside my DS...",
 		"Sprinkling lubricant into stock...",
-		"Pressing the Button On The Gun..."
+		"Pressing the Button On The Gun...",
+		"Adding more mods to CatGirlCraft...",
+		"Dipping playing cards in Mama Liz's chili oil...",
+		"Playing through Level 4 of Metroid Zero Mission...",
+		"Going to Windy Castle..."
 	],
 	"Tips":
 	[
@@ -512,7 +516,7 @@
 		"Just click on their heads to win.",
 		"When your HP falls below 0, you will die.",
 		"To defeat the Cyberdemon, shoot it until it dies.",
-		"If the Wraith is down, they will probably leave.",
+		"He's not taking enough damage. Get some headshots.",
 		"Just SDI.",
 		"Remember: no Johns.",
 		"Type your apologies in the chat before CAI-TAn attacks. But beware; she won't go easy on you.",
@@ -533,7 +537,10 @@
 		"Talk to Abbot at the wall if you want a history lesson.",
 		"The Mastiff shotgun's damage depends on the tides, the moon cycles, star alignments, your zodiac sign, what you had for breakfast, whether or not a popular youtuber has said something racist today or not, and so on.",
 		"The Mastiff shotgun's damage depends on the tides, the moon cycles, star alignments, your zodiac sign, what you had for breakfast, how recently a popular youtuber has abused their team / coworkers, and so on.",
-		"I could open this gate if I had Monty's claws."
+		"I could open this gate if I had Monty's claws.",
+		"You have to jump over the fucky wucky trigger to avoid it.",
+		"Windy Castle is great, even from far away.",
+		"You are hurt. Get to cover!"
 	],
 	"LORE":
 	[
@@ -628,7 +635,11 @@
 		"Thеy needed a stealth soldier, so I put my hands on the hibachi hot plate at Benihana and burned my fuckin' fingerprints off. They will NOT find me.",
 		"We smokin' that IBM Quantum Computer.",
 		"For what to do when KT is being toaster brained, please refer to Codekid123's message under the tip json's \"useful\" section",
-		"booping the nose during startup will enter service mode ~~tthbaltazar"
+		"booping the nose during startup will enter service mode ~~tthbaltazar",
+		"I feel kinda naked without a shield on ~~CAI_TAn",
+		"[not unique joke] ~~RetroBoi128theGameDev",
+		"she mine on my craft til I ???",
+		"Please do not redeem several things at the same time if you do not wish to overload the system ~~RetroBoi128theGameDev"
 	],
 	"MEMES":
 	[
@@ -672,7 +683,8 @@
 		"The One Piece is real.",
 		"We're rich!",
 		"Mushroom!",
-		"Google, show me this guy's balls."
+		"Google, show me this guy's balls.",
+		"I like trains."
 	],
 	"QUOTES":
 	[
@@ -827,7 +839,6 @@
 		"My mother's very proud.",
 		"We're actually coming out with a brand new video game machine!",
 		"Vtuber Corporations won't help you, only trust your fists ~~Wynne",
-		"He's not taking enough damage. Get some headshots.",
 		"Emulation stifles innovation. ~~stupid anti-consumer dinosaur company",
 		"We protect the hard work and creativity of our engineers by enforcing its unavailability for consumption a couple years later.",
 		"There's only one beer left.",
@@ -841,7 +852,12 @@
 		"Nothing would thrill me more greatly than to shoot you.",
 		"A kid always wins against two idiots.",
 		"Adoory-dee, another door for me.",
-		"There are only 2 hard problems in computer science: Naming things, caching, and off-by-one errors."
+		"There are only 2 hard problems in computer science: Naming things, caching, and off-by-one errors.",
+		"You wanna know a dirty little secret? This stuff? Right here? Right here? This stuff? This here? This is the stuff. The stuff. The only stuff. Duh!",
+		"I'm plowing through, I'm zorching these motherfuckers.",
+		"Go My ShitHound . Hunt Down My Adversaries",
+		"The bugs are back.",
+		"My watch cost 50 bands and I still don't have time for you fuckboys."
 	],
 	"OBSCURE":
 	[
@@ -914,7 +930,13 @@
 		"You can make me jump by pressing Button One. Whee.",
 		"After continues shooting, AK will become windy shot.",
 		"Ammunition is stored in the stock.",
-		"This is the normal opweator of the gun."
+		"This is the normal opweator of the gun.",
+		"It took me nine yearials to collect the cereals.",
+		"Hard disk have been changed! System will not boot continue.",
+		"Melon",
+		"Ah, yes, my favorite PS2 game... Racket Clank: Tool Warrior College.",
+		"Sorry if I missed your comments in Chat. This game can get a little crazy.",
+		"Purple pig! Purple pig! PURPLE PIG!"
 	],
 	"USELESS":
 	[
@@ -1007,7 +1029,8 @@
 		"I'll talk to you later kitten, I have to ban someone for {BANNABLE}.",
 		"dGhlIG5ldyBkb2cgZ2lybHMgYXJlIHJlYWxseSBhbm5veWluZy4gc29ycnku",
 		"Miku Hatsune wielding akimbo .44 magnums makes Vash the Stampede look like Sasuke Uchiha on prom night.",
-		"START SENDING ME EMAILS!!!"
+		"START SENDING ME EMAILS!!!",
+		"Agent Jack. BT7274 has engaged Blisk. Head to The Angel City-- head to Angel City... Agent Jack. BT7274 has engaged Blisk. Head to Angel City immediately!"
 	],
 	"VTUBER":
 	[

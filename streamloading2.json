@@ -543,7 +543,8 @@
 		"I could open this gate if I had Monty's claws.",
 		"You have to jump over the fucky wucky trigger to avoid it.",
 		"Windy Castle is great, even from far away.",
-		"You are hurt. Get to cover!"
+		"You are hurt. Get to cover!",
+		"Press the Fire Button to use your currently selected weapon."
 	],
 	"LORE":
 	[
@@ -947,7 +948,11 @@
 		"Purple pig! Purple pig! PURPLE PIG!",
 		"We have keychains with pictures of MEN in them. These men are handsome and they're in our keychains. Men.",
 		"Never, under any circumstances, order the CAI-TAn Burger.",
-		"Today is my birthday because I'm poor."
+		"Today is my birthday because I'm poor.",
+		"Rate-up is a lie, unless you're someone who hasn't played a gacha in six years; in which case, enjoy your shark girl, I guess?",
+		"The Software sucks, also was this really John Software's best idea?",
+		"Mods, dagger them.",
+		"Guards! Prevent the daggering!"
 	],
 	"USELESS":
 	[

@@ -12,12 +12,12 @@
 		"Putting science in Gordon Freeman...",
 		"Cutting combines in two and half...",
 		"Coming out of the Hug Tower...",
-		"Being a room temperature IQ normie...",
-		"Tweeting IRL insta-thot pics...",
-		"Posting textbook attentionwhore please-tell-me-how-pretty-I-am pictures...",
+		"Being a \"room temperature IQ normie\"...",
+		"Tweeting \"IRL insta-thot\" pics (whatever that means)...",
+		"Posting pictures that piss off misogynists...",
 		"Flushing the crucial separation from reality down the toilet...",
 		"Being a crotchety no-fun party pooper...",
-		"Banging out this dumb fucking rant...",
+		"Banging out a dumb fucking rant...",
 		"Flushing StreamWriter...",
 		"Messaging swiftyspiffy...",
 		"Blaming the plugins...",
@@ -392,7 +392,7 @@
 		"Disowning my oshi...",
 		"Selling out...",
 		"Paying my respects to Stephen Ash...",
-		"Finally fucking updating the standby screen...",
+		"Finally f**king updating the standby screen...",
 		"Accidentally shooting Morgie when I change scenes...",
 		"Dedotating wam...",
 		"Milking the creature...",
@@ -464,7 +464,11 @@
 		"Selling keychains with men in them...",
 		"Throwing the burrito...",
 		"Adding the entirety of All Star by Smash Mouth to my tips rotation...",
-		"Saying \"mike hawk is small\"..."
+		"Saying \"mike hawk is small\"...",
+		"Clarifying jokes...",
+		"Accidentally platforming misogynists...",
+		"Intentionally deplatforming misogynists...",
+		"Adding jokes that only make sense if you look at !standbyjson..."
 	],
 	"Tips":
 	[
@@ -508,7 +512,8 @@
 		"despite being a robot, KT can still be hungry, remember to feed her by throwing cheese slices at her! ~~CodeKid123",
 		"Use the !streak command to find out how many consecutive CAI-TAn Channel streams you've participated in!",
 		"Use of the phrase \"tourist\" is a dogwhistle for behaviors that violate Rule #2 of the CAI-TAn community and is therefore a bannable offense.",
-		"Go check out {VTUBER}, they are pretty cool I think!"
+		"Go check out {VTUBER}, they are pretty cool I think!",
+		"99% of stuff in this tip system (especially outside of the \"Useful\" category in the data file) should be considered a joke. If you're not entirely sure, check !standbyjson."
 	],
 	"GAMETIP":
 	[
@@ -1099,7 +1104,7 @@
 		"Luna Foxgirl",
 		"Lina Asahi",
 		"Kiri",
-		"Nethyr",
+		"Nethyr AI",
 		"Lua Lucky",
 		"Diesel",
 		"Virtue Catalina",
@@ -1108,7 +1113,7 @@
 		"Glitched Rune",
 		"Minra",
 		"Mystic Moshi",
-		"Crease",
+		"CreaseVT",
 		"Eroax",
 		"Enlynn",
 		"Lorz IX"

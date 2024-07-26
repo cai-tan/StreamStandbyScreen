@@ -16,30 +16,31 @@ cycleratemin = 1000
 cycleratemax = 10000
 tipchangemin = 3
 tipchangemax = 10
+changeenabled = False
 
 # ------------------------------------------------------------
 
 
 def blink():
-    global loading_source_name, tip_source_name, changetip, cycleratemin, cycleratemax, tipchangemin, tipchangemax
+    global loading_source_name, tip_source_name, changetip, cycleratemin, cycleratemax, tipchangemin, tipchangemax, changeenabled
     
     changetip -= 1
-    
-    source1 = obs.obs_get_source_by_name(loading_source_name)
-    if source1 is not None:
-        changetext(source1, dictionarylookup(random.choice(loadarray)))
-    obs.obs_source_release(source1)
-    
-    if changetip <= 0:
-        source2 = obs.obs_get_source_by_name(tip_source_name)
-        if source2 is not None:
-            changetext(source2, "Tip: " + dictionarylookup(random.choice(tiparray)))
-        obs.obs_source_release(source2)
-        lmin = tipchangemin
-        lmax = tipchangemax
-        if lmin==lmax:
-            lmax = lmin + 1
-        changetip = random.randrange(min(lmin, lmax),max(lmin,lmax))
+    if changeenabled:
+        source1 = obs.obs_get_source_by_name(loading_source_name)
+        if source1 is not None:
+            changetext(source1, dictionarylookup(random.choice(loadarray)))
+        obs.obs_source_release(source1)
+        
+        if changetip <= 0:
+            source2 = obs.obs_get_source_by_name(tip_source_name)
+            if source2 is not None:
+                changetext(source2, "Tip: " + dictionarylookup(random.choice(tiparray)))
+            obs.obs_source_release(source2)
+            lmin = tipchangemin
+            lmax = tipchangemax
+            if lmin==lmax:
+                lmax = lmin + 1
+            changetip = random.randrange(min(lmin, lmax),max(lmin,lmax))
     
     obs.remove_current_callback()
     lmin = cycleratemin
@@ -95,7 +96,7 @@ def script_properties():
     obs.obs_properties_add_int(grp2, "tipchangemax", "Max", 1, 10, 1)
     obs.obs_properties_add_group(props,"tipchange","Tip Change Rate (number of changes)",obs.OBS_GROUP_NORMAL,grp2)
     
-    obs.obs_properties_add_button(props,"cyclebutton","Cycle Now! (button's kinda buggy)",cyclebutton)
+    obs.obs_properties_add_bool(props,"enabled","Enabled")
     return props
 
 
@@ -106,7 +107,7 @@ def script_update(settings):
     global loading_source_name
     global tip_source_name
     global strgroup
-    global loadarray, tiparray, cycleratemin, cycleratemax, tipchangemin, tipchangemax
+    global loadarray, tiparray, cycleratemin, cycleratemax, tipchangemin, tipchangemax, changeenabled
     
     jsonpath = obs.obs_data_get_string(settings, "jsonfile")
     if path.exists(jsonpath):
@@ -123,6 +124,8 @@ def script_update(settings):
     cycleratemax = obs.obs_data_get_int(settings, "cycleratemax")
     tipchangemin = obs.obs_data_get_int(settings, "tipchangemin")
     tipchangemax = obs.obs_data_get_int(settings, "tipchangemax")
+    changeenabled = obs.obs_data_get_bool(settings, "enabled")
+    print("changeenabled was set to " + str(changeenabled))
     
     obs.timer_remove(blink)
     obs.timer_add(blink, cycleratemin)

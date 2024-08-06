@@ -468,7 +468,10 @@
 		"Clarifying jokes...",
 		"Accidentally platforming misogynists...",
 		"Intentionally deplatforming misogynists...",
-		"Adding jokes that only make sense if you look at !standbyjson..."
+		"Adding jokes that only make sense if you look at !standbyjson...",
+		"Drinking normal beer...",
+		"Drinking gay beer...",
+		"Transitioning to a Jets fan..."
 	],
 	"Tips":
 	[
@@ -1059,7 +1062,8 @@
 		"Agent Jack. BT7274 has engaged Blisk. Head to The Angel City-- head to Angel City... Agent Jack. BT7274 has engaged Blisk. Head to Angel City immediately!",
 		"{ALLSTAR}",
 		"{ALLSTAR}",
-		"{ALLSTAR}"
+		"{ALLSTAR}",
+		"I'm old enough to drink the gay beer."
 	],
 	"ALLSTAR":
 	[
@@ -1195,7 +1199,8 @@
 		"a sponsored skateboarder",
 		"The Bobby Dance",
 		"Dallas's Chalice of Power",
-		"pre-patch Bayonetta"
+		"pre-patch Bayonetta",
+		"The New Norm"
 	],
 	"FUNNYCOMMAND":
 	[

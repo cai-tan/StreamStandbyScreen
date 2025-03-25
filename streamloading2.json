@@ -562,7 +562,8 @@
 		"You have to jump over the fucky wucky trigger to avoid it.",
 		"Windy Castle is great, even from far away.",
 		"You are hurt. Get to cover!",
-		"Press the Fire Button to use your currently selected weapon."
+		"Press the Fire Button to use your currently selected weapon.",
+		"It is I... Jimbo... the Socker of Buskins..."
 	],
 	"LORE":
 	[
@@ -667,7 +668,11 @@
 		"This tip is filled with important lore.",
 		"CAI_TAn is going to use \"that\" style.",
 		"\"I'm going to fucking grab you. And shake you up and down\" - K-T, \"threatening\" someone",
-		"This toaster is eating rock AND stone"
+		"This toaster is eating rock AND stone",
+		"Cheeseburgers? Byeah. Hot dogs? Byeah. Donuts? Byeah. Bar fightin'? Byeah. Bug collection? Byeah.",
+		"!pligs",
+		"Get up and rotate 3 times, right now. Trust.",
+		"remember to quicksave before you do anything risky, heehoo ~~bittyfoxxo"
 	],
 	"MEMES":
 	[
@@ -893,7 +898,8 @@
 		"I'm leaving, by.",
 		"Loading, please wait. One hundred percent.",
 		"Press V to release the notes.",
-		"It's not too late to leave, right?"
+		"It's not too late to leave, right?",
+		"At least they're not pretending to be Freddy Five Bears."
 	],
 	"OBSCURE":
 	[
@@ -986,7 +992,10 @@
 		"Aerial is down, press it while I'm jumping up... then hit the B button like I don't give a fuck.",
 		"I ain't tryn'a hit ya, I'm just swingin' at the open air.",
 		"My shitty jab isn't even useless.",
-		"Not even being a Parkour Master can get you out of work."
+		"Not even being a Parkour Master can get you out of work.",
+		"It's like an aquarium.",
+		"What happens on the Gaycation stays on the Gaycation.",
+		"His acne is so harsh he should create mayonnaise fabric. ~~School Bully"
 	],
 	"USELESS":
 	[
@@ -1127,11 +1136,7 @@
 		"Emma",
 		"Robyn Renarde",
 		"Akinyan",
-		"Luna Foxgirl",
-		"Lina Asahi",
 		"Kiri",
-		"Nethyr AI",
-		"Lua Lucky",
 		"Diesel",
 		"Virtue Catalina",
 		"NovaLiminal",
@@ -1142,7 +1147,10 @@
 		"CreaseVT",
 		"Eroax",
 		"Enlynn",
-		"Lorz IX"
+		"Lorz IX",
+		"Starbriar",
+		"Duhuhu",
+		"SkyRocketDog"
 	],
 	"IDOL":
 	[
@@ -1224,7 +1232,8 @@
 		"pre-patch Bayonetta",
 		"The New Norm",
 		"Better Than Wolves",
-		"Jason from Restream"
+		"Jason from Restream",
+		"Chika the Kitchen"
 	],
 	"FUNNYCOMMAND":
 	[

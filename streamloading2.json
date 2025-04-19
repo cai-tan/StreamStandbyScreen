@@ -1099,7 +1099,8 @@
 		"{ALLSTAR}",
 		"{ALLSTAR}",
 		"I'm old enough to drink the gay beer.",
-		"The intended use of this platform is to kiss my ass."
+		"The intended use of this platform is to kiss my ass.",
+		"{MCMBRAINROT}! {MCMBRAINROT}! {MCMBRAINROT}! {MCMBRAINROT}! {MCMBRAINROT}! {MCMBRAINROT}!"
 	],
 	"ALLSTAR":
 	[
@@ -1239,6 +1240,16 @@
 		"Better Than Wolves",
 		"Jason from Restream",
 		"Chika the Kitchen"
+	],
+	"MCMBRAINROT":
+	[
+		"Flint and Steel",
+		"Chicken Jockey",
+		"The Nether",
+		"Water Bucket",
+		"I... am Steve",
+		"Ender Pearl",
+		"This... is a crafting table"
 	],
 	"FUNNYCOMMAND":
 	[
